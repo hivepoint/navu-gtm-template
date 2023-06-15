@@ -1,2 +1,5 @@
 # navu-gtm-template
-Google Tag Manager template for adding Navu to a website
+This project contains the template for a Google Tag Manager tag for adding Navu into a website.
+
+For more information, visit https://navu.co.
+
