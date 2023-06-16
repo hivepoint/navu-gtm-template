@@ -1,5 +1,5 @@
 homepage: "https://navu.co"
-documentation: "https://navu.co/gtm-template-documentation"
+documentation: "https://github.com/hivepoint/navu-gtm-template"
 versions:
   - sha: 2c4b5561f15aaf01cb37a08e416bbfdfc4e318f8
     changeNotes: Initial release
